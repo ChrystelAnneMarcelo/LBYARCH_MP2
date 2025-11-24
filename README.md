@@ -36,12 +36,12 @@ The Assembly implementation is measurably faster in every test case.
 #### 2. Execution Time Scaling
 As the array size increases, the execution time for both kernels scales up, but the ASM version remains proportionally faster:
 
-- **From $n=2^{20}$ to $n=2^{24}$ (16x increase in length):**
+- **From $n=2^{20}$ to $n=2^{24}$:**
     - C time increased from 0.001534 s to 0.028789 s 
     - ASM time increased from 0.000485 s to 0.011207 s
     - The speedup decreased from 3.16x to 2.57x.
         
-- **From $n=2^{24}$ to $n=2^{28}$ (16x increase in length):**
+- **From $n=2^{24}$ to $n=2^{28}$:**
     - C time increased from 0.028789 s to 0.459396 s 
     - ASM time increased from 0.011207 s to 0.176186 s
     - The speedup remained relatively stable, increasing slightly from 2.57x to 2.61x.
