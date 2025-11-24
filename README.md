@@ -1,5 +1,10 @@
 # **SAXPY Performance Comparison: C vs x86-64 NASM)**
 
+**Kaissehr Tyrrelle Mendoza**
+**Chrystel Anne Marcelo**
+**S18A**
+
+---
 This project implements and benchmarks SAXPY operations in both **C** and **x86-64 Assembly** with the goal of measuring the performance difference between a baseline C implementation (`saxpy_c`) and an optimized x86-64 Assembly implementation (`saxpy_asm`).
 
 **Formula:** $Z[i]= A \cdot X[i] + Y[i]$
@@ -68,4 +73,4 @@ The x86-64 Assembly version of SAXPY clearly runs faster than the C version acro
 
 
 # **Link to Demo Video**
-[link]
+https://youtu.be/2b_2SnSwcZA
