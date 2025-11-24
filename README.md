@@ -1,4 +1,6 @@
-# **SAXPY Performance Comparison: C vs x86-64 NASM)**
+# **SAXPY Performance Comparison: C vs x86-64 NASM**
+
+### Group Members:
 
 **Kaissehr Tyrrelle Mendoza**
 
