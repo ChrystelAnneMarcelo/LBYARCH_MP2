@@ -1,7 +1,9 @@
 # **SAXPY Performance Comparison: C vs x86-64 NASM)**
 
 **Kaissehr Tyrrelle Mendoza**
+
 **Chrystel Anne Marcelo**
+
 **S18A**
 
 ---
